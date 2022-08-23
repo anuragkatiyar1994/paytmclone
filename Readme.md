@@ -1,6 +1,8 @@
 ![Paytm logo](./markdown%20images/image-1.jpg)
 # Paytm clone UI Project 
-This is paytm clone which is a kind of updated version of original paytm. it is completly responsive on small medium and large devices.  
+This is paytm clone which is a kind of updated version of original paytm. it is completly responsive on small medium and large devices. 
+[Deployed Link of the project](https://paytmclone-three.vercel.app/) 
+
 ## Author ✍ and 📱  Contact details
 ---
 - This is made by Anurag katiyar
@@ -18,7 +20,7 @@ This is paytm clone which is a kind of updated version of original paytm. it is 
 ## Deployed Link of the website
 ---
 
-## Some images from of the project
+## Some images of the project
 
 ---
 ![Paytm logo](./markdown%20images/image-2.jpg)
